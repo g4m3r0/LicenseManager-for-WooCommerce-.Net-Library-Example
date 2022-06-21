@@ -52,7 +52,7 @@
             this.btnActivate.TabIndex = 1;
             this.btnActivate.Text = "Activate";
             this.btnActivate.UseVisualStyleBackColor = true;
-            this.btnActivate.Click += new System.EventHandler(this.btnActivate_Click);
+            this.btnActivate.Click += new System.EventHandler(this.BtnActivate_Click);
             // 
             // btnValidate
             // 
@@ -62,7 +62,7 @@
             this.btnValidate.TabIndex = 2;
             this.btnValidate.Text = "Validate";
             this.btnValidate.UseVisualStyleBackColor = true;
-            this.btnValidate.Click += new System.EventHandler(this.btnValidate_Click);
+            this.btnValidate.Click += new System.EventHandler(this.BtnValidate_Click);
             // 
             // txtProductId
             // 
