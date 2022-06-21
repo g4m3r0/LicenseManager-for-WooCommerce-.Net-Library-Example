@@ -13,6 +13,6 @@
     <None Remove="Properties\**" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\OneDrive\Dokumente\GitHub\LicenseManager.at-.Net-Library\LicenseManager\LicenseManager.csproj" />
+    <PackageReference Include="LicenseManager" Version="1.0.3" />
   </ItemGroup>
 </Project>
