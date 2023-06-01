@@ -1,3 +1,5 @@
+# The example of the latest version (> 2.0.0) are now inside the main repository located at https://github.com/g4m3r0/LicenseManager-for-WooCommerce-.Net-Library
+
 # LicenseManager for WooCommerce .Net Library WinForms Example
 An example WinForms projects to show how to use the C# Library for the [License Manager for WooCommerce](https://github.com/wpexpertsio/license-manager-woocommerce). The C# Library is avialable here: [LicenseManager for WooCommerce .Net Library](https://github.com/g4m3r0/LicenseManager-for-WooCommerce-.Net-Library).
 
